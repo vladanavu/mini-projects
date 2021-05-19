@@ -78,6 +78,7 @@ p {
 /* HEADING */
 .l-heading {
   font-size: 40px;
+  line-height: 1.2;
 }
 
 /* ------------------------------- */
@@ -295,6 +296,13 @@ p {
 /* ------------------------------- */
 
 #main-footer {
+  text-align: center;
+  background: #444;
+  color: #f4f4f4;
+  padding: 20px;
+}
+
+#main-footer-about {
   text-align: center;
   background: #444;
   color: #f4f4f4;
